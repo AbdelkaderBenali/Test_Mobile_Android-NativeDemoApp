@@ -1,0 +1,27 @@
+{
+  "name": "mobile_test3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/cli": "^6.7.1",
+    "@wdio/local-runner": "^6.7.1",
+    "@wdio/mocha-framework": "^6.7.0",
+    "@wdio/sync": "^6.7.1",
+    "react-native-dropdown-picker": "^3.7.1",
+    "wd": "^1.13.0",
+    "webdriverio": "^6.7.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "@babel/register": "^7.12.1"
+  }
+}
